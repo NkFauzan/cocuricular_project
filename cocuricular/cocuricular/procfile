@@ -1,0 +1,1 @@
+web : gunicorn curicular.wsgi --log-file -
